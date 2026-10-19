@@ -1,8 +1,11 @@
 ![Gradle Build](https://github.com/nu-cs-sqe/cs380-software-quality-engineering-20262701-course-project-group-11/actions/workflows/main.yml/badge.svg)
-# Chess
+# Chess (with a spin)
 
 ## Contributors
 - Andrew Xue
+- Kris Ni
+- Max Zeng
+- Cindy Jiang
 
 ## Dependencies
 - JDK 11
