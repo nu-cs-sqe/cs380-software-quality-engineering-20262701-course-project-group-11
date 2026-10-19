@@ -1,8 +1,8 @@
-# YOUR PROJECT NAME
+![Gradle Build](https://github.com/nu-cs-sqe/cs380-software-quality-engineering-20262701-course-project-group-11/actions/workflows/main.yml/badge.svg)
+# Chess
 
 ## Contributors
-- PERSON
-- PERSON
+- Andrew Xue
 
 ## Dependencies
 - JDK 11
